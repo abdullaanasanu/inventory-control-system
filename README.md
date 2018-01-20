@@ -1,3 +1,3 @@
 # Inventory Control Systems
 
-**Developed By Abdulla Anas - _[Oops Reloaded.com](https://oopsreloaded.com/) _**
+**Developed By Abdulla Anas - _[Oops Reloaded.com](http://oopsreloaded.com/) _**
